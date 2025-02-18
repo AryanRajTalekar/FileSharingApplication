@@ -69,5 +69,6 @@ Spring Boot
 Thymeleaf
 Lombok
 MySQL
+CollegeWallah
 Contact
 For any inquiries, please contact aryanrajtalekar@gmail.com. 
