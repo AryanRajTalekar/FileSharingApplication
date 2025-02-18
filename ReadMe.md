@@ -4,19 +4,6 @@
 
 This project is a file-sharing application built using Spring Boot. It allows users to upload, share, and delete files. The application provides a user-friendly interface for managing files and supports secure file transfers.
 
-
-
-
-![File Sharing Application](file:///C:/Users/Lenovo/OneDrive/Pictures/Screenshots%201/Screenshot%202025-02-18%20113120.png)
-
-
-![File Sharing Application -> Login Page](path/to/your/image.png)
-
-
-
-
-
-
 ## Features
 
 - **Upload Files**: Users can upload files to the server.
@@ -84,4 +71,3 @@ Lombok
 MySQL
 Contact
 For any inquiries, please contact aryanrajtalekar@gmail.com. 
-
